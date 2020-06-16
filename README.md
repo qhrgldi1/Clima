@@ -31,5 +31,5 @@ switch conditionID {
 ```
 
 ## 실행 화면
-[![play](https://www.youtube.com/watch?v=s7fKScEh6Q0/0.jpg)](https://www.youtube.com/watch?v=s7fKScEh6Q0?t=0s)
+[![play](http://img.youtube.com/vi/7fKScEh6Q0/0.jpg)](https://www.youtube.com/watch?v=s7fKScEh6Q0?t=0s)
 
